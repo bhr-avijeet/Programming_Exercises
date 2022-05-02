@@ -20,3 +20,13 @@ Output: [0,1]
 """
 
 
+def two_sum(nums, target):
+    hash_map = {}
+    for i in range(len(nums)):
+        compliment = target-nums[i]
+        if compliment in hash_map:
+            print([i, hash_map[compliment]])
+        hash_map[nums[i]] = i
+
+
+two_sum([2,7,11,15], 9)
