@@ -54,4 +54,12 @@ def roman_to_int(s):
             int_num += roman[s[i]]
     print(int_num)
 
+
 roman_to_int("MCMXCIV")
+
+"""
+Solution Trick
+According to rule, the roman values are written from left to right in the order of largest to smallest.
+If a smaller roman symbol is followed by a current symbol, keep adding the value of current symbol, if there is a 
+larger symbol followed by the current symbol then subtract the current symbol.
+"""
