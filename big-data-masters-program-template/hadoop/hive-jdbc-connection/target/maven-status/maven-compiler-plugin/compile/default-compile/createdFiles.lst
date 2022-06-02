@@ -1,0 +1,6 @@
+org\npntraining\hands_on\SelectTable.class
+org\npntraining\hands_on\HiveDBConnection.class
+org\npntraining\hands_on\HiveConstants.class
+org\npntraining\hands_on\TestDBConnection.class
+org\npntraining\hands_on\CreatingTable_Demo.class
+org\npntraining\hands_on\LoadingDataIntoTable_Demo.class

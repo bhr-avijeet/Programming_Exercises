@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="924e1b0b-c77e-4d27-91a3-c08bcfeb1a03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/big-data-masters-program-template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hadoop/hive-udf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hadoop/hive-udf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/dataset/data/sns_publish_policy_template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/dataset/data/us_bb_browsing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/dataset/jars/kafka-clients-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/dataset/jars/spark-sql-kafka-0-10_2.11-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/dataset/jars/sqlite-jdbc-3.36.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/EmployeeAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/EmployeeDataAnalysis_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/EmployeeDataAnalysis_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/spark-warehouse/window_functions.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module03-exploring-data-source-api/module03-exploring-data-source-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module05-stream-processing/src/main/python/DataFrameWriterAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module05-stream-processing/src/main/python/JoiningBatchAndStreamingData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module05-stream-processing/src/main/python/StreamingDataFromFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark/module05-stream-processing/src/main/scala/org/npntraining/hands_on/ProcessingJsonData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws-for-data-engineering/aws-for-data-engineering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aws-for-data-engineering/aws-for-data-engineering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws-for-data-engineering/s3/create_bucket.py" beforeDir="false" afterPath="$PROJECT_DIR$/aws-for-data-engineering/s3/create_bucket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/dataset/users2.dat" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/dataset/users2.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/hive-jdbc-connection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/hive-jdbc-connection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java/org/npntraining/hands_on/HiveDBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java/org/npntraining/hands_on/HiveDBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java/org/npntraining/hands_on/LoadingDataIntoTable_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java/org/npntraining/hands_on/LoadingDataIntoTable_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java/org/npntraining/hands_on/TestDBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java/org/npntraining/hands_on/TestDBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/python/hive_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/python/hive_connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/HiveDBConnection$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/HiveDBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/org/npntraining/hands_on/HiveDBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/org/npntraining/hands_on/HiveDBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/org/npntraining/hands_on/LoadingDataIntoTable_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/org/npntraining/hands_on/LoadingDataIntoTable_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/org/npntraining/hands_on/TestDBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-jdbc-connection/target/classes/org/npntraining/hands_on/TestDBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-udf/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-udf/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-udf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-udf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-udf/target/hive-udf-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-udf/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-udf/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-udf/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-udf/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive-udf/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive-udf/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_bucketing.hql" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_bucketing.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_dynamic_partition.hql" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_dynamic_partition.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_partition_bucket.hql" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_partition_bucket.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_partitioned.hql" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop/hive_scripts/transaction_records_partitioned.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/kafka-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka/kafka-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/kafka-with-python/SimpleKafkaConsumer.py" beforeDir="false" afterPath="$PROJECT_DIR$/kafka/kafka-with-python/SimpleKafkaConsumer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/kafka-with-python/SimpleKafkaProducer.py" beforeDir="false" afterPath="$PROJECT_DIR$/kafka/kafka-with-python/SimpleKafkaProducer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/.lock" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module01-exploring-spark-and-core-api/src/main/scala/org/npntraining/hands_on/EmployeeAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-0/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-0/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module01-exploring-spark-and-core-api/src/main/scala/org/npntraining/hands_on/PracticeSQL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-0/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-0/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-1/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-1/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/ConnectingToDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-1/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-1/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-10/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-10/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/EmployeeDataAnalysis_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-10/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-10/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-11/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-11/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/EmployeeDataAnalysis_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-11/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-11/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-12/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-12/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/FacilityDataAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-12/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-12/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-13/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-13/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/LoanDataAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-13/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-13/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-14/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-14/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/OlympicDataAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-14/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-14/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-15/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-15/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/scala/org/npntraining/hands_on/UserAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-15/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-15/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-16/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-16/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python/data_governance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-16/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-16/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-17/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-17/00000000000000000000.log" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module05-stream-processing/src/main/python/StreamingDataFromSocket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-17/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-17/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-18/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-18/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-18/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-18/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-19/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-19/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-19/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-19/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-2/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-2/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-2/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-2/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-20/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-20/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-20/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-20/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-21/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-21/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-21/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-21/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-22/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-22/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-22/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-22/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-23/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-23/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-23/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-23/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-24/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-24/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-24/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-24/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-25/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-25/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-25/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-25/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-26/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-26/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-26/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-26/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-27/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-27/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-27/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-27/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-28/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-28/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-28/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-28/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-29/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-29/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-29/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-29/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-3/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-3/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-3/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-3/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-30/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-30/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-30/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-30/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-31/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-31/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-31/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-31/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-32/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-32/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-32/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-32/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-33/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-33/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-33/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-33/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-34/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-34/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-34/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-34/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-35/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-35/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-35/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-35/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-36/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-36/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-36/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-36/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-37/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-37/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-37/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-37/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-38/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-38/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-38/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-38/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-39/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-39/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-39/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-39/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-4/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-4/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-4/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-4/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-40/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-40/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-40/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-40/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-41/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-41/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-41/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-41/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-42/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-42/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-42/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-42/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-43/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-43/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-43/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-43/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-44/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-44/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-44/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-44/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-45/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-45/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-45/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-45/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-46/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-46/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-46/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-46/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-47/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-47/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-47/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-47/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-48/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-48/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-48/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-48/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-49/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-49/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-49/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-49/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-5/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-5/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-5/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-5/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-6/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-6/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-6/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-6/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-7/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-7/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-7/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-7/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-8/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-8/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-8/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-8/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-9/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-9/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-9/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/__consumer_offsets-9/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/cleaner-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/log-start-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/meta.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/recovery-point-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/replication-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/replication-offset-checkpoint.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/simple-producer-consumer-0/00000000000000000000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/simple-producer-consumer-0/00000000000000000000.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/simple-producer-consumer-0/00000000000000000000.timeindex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/kafka-logs/broker0/simple-producer-consumer-0/leader-epoch-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/tmp/zookeeper-logs/version-2/log.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/scala-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scala/scala-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/access_logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/accounts_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/accounts_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/customer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/customer_transaction/streaming_datasets/xaa.csv" beforeDir="false" afterPath="$PROJECT_DIR$/spark/dataset/customer_transaction/streaming_datasets/input/xaa.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/employee-missing-records.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/employee_skills.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/event_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/nested_json.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/transaction.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/u.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/user.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/dataset/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module01-exploring-spark-and-core-api/module01-exploring-spark-and-core-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module01-exploring-spark-and-core-api/module01-exploring-spark-and-core-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/module02-exploring-dataframe-dataset-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/module02-exploring-dataframe-dataset-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python/LoanStats_2018Q4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python/employee.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python/employee_data_analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python/loan_data_analaysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/module04-deep-dive-spark-sql/module04-deep-dive-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark/module04-deep-dive-spark-sql/module04-deep-dive-sql.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="22IztBJUq1hAda7nqwmduobhzya" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark/module05-stream-processing/src/main" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.254023" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\BigData\big-data-masters-program-template\spark\module05-stream-processing\src\main" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\module05-stream-processing\src\main\python" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\module02-exploring-dataframe-dataset-api\src\main\scala\org\npntraining\hands_on\spark-warehouse" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\dataset" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\dataset\Jars" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BigData\big-data-masters-program-template\spark\module02-exploring-dataframe-dataset-api\src\main\scala\org\npntraining\hands_on" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\module02-exploring-dataframe-dataset-api\src\main\scala\org\npntraining\hands_on\spark-warehouse" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\dataset\data" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\module05-stream-processing\src\main\python" />
+      <recent name="C:\BigData\big-data-masters-program-template\spark\dataset\jars" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.npntraining.hands_on" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data_governance">
+    <configuration name="console-producer" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="kafka-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="./kafka/scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="console-producer.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kafka-server-start-0" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="kafka-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="./kafka/scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="kafka-server-start-0.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic-create" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="kafka-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="./kafka/scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="topic-create.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="create_bucket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aws-for-data-engineering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aws-for-data-engineering/s3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aws-for-data-engineering/s3/create_bucket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_governance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="module03-exploring-data-source-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/python/data_governance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_governance" />
+        <item itemvalue="Python.create_bucket" />
+        <item itemvalue="Batch.console-producer" />
+        <item itemvalue="Batch.topic-create" />
+        <item itemvalue="Batch.kafka-server-start-0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="924e1b0b-c77e-4d27-91a3-c08bcfeb1a03" name="Changes" comment="" />
+      <created>1649750910896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649750910896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="093355b1-aaad-46e2-8e86-6c1f705b7a7e">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/BigData/big-data-masters-program-template/kafka" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="093355b1-aaad-46e2-8e86-6c1f705b7a7e" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+</project>

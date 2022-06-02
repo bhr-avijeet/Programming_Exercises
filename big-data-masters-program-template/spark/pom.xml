@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.npntraining.courses</groupId>
+        <artifactId>big-data-masters-program</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>spark-course</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>spark-course</name>
+    <packaging>pom</packaging>
+
+    <properties>
+        <spark.version>2.4.0</spark.version>
+        <scala.binary.version>2.11</scala.binary.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-core_${scala.binary.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_${scala.binary.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.6</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql-kafka-0-10_${scala.binary.version}</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+
+        <!--
+        <dependency>
+             <groupId>org.apache.spark</groupId>
+             <artifactId>spark-hive_${scala.binary.version}</artifactId>
+             <version>${spark.version}</version>
+         </dependency>
+         <dependency>
+             <groupId>org.apache.spark</groupId>
+             <artifactId>spark-yarn_${scala.binary.version}</artifactId>
+             <version>${spark.version}</version>
+         </dependency>-->
+    </dependencies>
+    <modules>
+        <module>module01-exploring-spark-and-core-api</module>
+        <module>module02-exploring-dataframe-dataset-api</module>
+        <module>module03-exploring-data-source-api</module>
+        <module>module04-deep-dive-spark-sql</module>
+        <module>module05-stream-processing</module>
+        <module>module06-advance-stream-processing</module>
+        <module>module07-packaging-deploying-and-debugging</module>
+        <module>module08-performance-tuning-and-best-practices</module>
+        <module>cca_175_certification</module>
+    </modules>
+</project>

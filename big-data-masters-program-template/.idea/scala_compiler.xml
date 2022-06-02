@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="cca_175_certification,deploying-spark-in-productions,module01-exploring-spark-and-core-api,module02-exploring-dataframe-dataset-api,module03-exploring-data-source-api,module04-deep-dive-sql,module05-stream-processing,module06-advance-stream-processing,module08-performance-tuning-and-best-practices,spark-course" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aws-for-data-engineering/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aws-for-data-engineering/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/devops-and-microservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/devops-and-microservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/hive-jdbc-connection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/hive-udf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/hive-udf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/map-reduce-programming/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/map-reduce-programming/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/module01-exploring-kafka-and-core-apis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/module01-exploring-kafka-and-core-apis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/module02-deep-dive-producer-consumer-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/module02-deep-dive-producer-consumer-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scala/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scala/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/cca_175_certification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/cca_175_certification/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module01-exploring-spark-and-core-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module01-exploring-spark-and-core-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module02-exploring-dataframe-dataset-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module03-exploring-data-source-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module04-deep-dive-spark-sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module04-deep-dive-spark-sql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module05-stream-processing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module05-stream-processing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module06-advance-stream-processing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module06-advance-stream-processing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module07-packaging-deploying-and-debugging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module07-packaging-deploying-and-debugging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module08-performance-tuning-and-best-practices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/module08-performance-tuning-and-best-practices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
