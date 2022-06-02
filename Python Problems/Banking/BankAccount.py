@@ -21,7 +21,7 @@ class BankAccount:
 
 
 
-# b1 = BankAccount("Avijeet")
+b1 = BankAccount("Avijeet")
 # b1.add_funds(100)
 # b1.withdraw_funds(200)
 # b1.withdraw_funds(50)
