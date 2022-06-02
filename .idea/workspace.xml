@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87c4ff80-cd7a-4dd0-8524-2197af4b637b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Problems/.idea/Python Problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LinkedList/SingleLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LinkedList/Sorted_SLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/LongestCommonPrefix/LongestCommonPrefix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/Palindrome/Palindrome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RemoveDuplicates/RemoveDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RomanToInteger/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RomanToInteger/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RomanToInteger/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RomanToInteger/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RomanToInteger/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/RomanToInteger/RomanToInteger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/Sum/Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Problems/TwoSum/TwoSum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/HelloWorld/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="87c4ff80-cd7a-4dd0-8524-2197af4b637b" name="Changes" comment="Big Data Project">
+      <change beforePath="$PROJECT_DIR$/big-data-masters-program-template" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +22,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2A0bajbMYnVV3vjVRgGNpLFDUQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,6 +41,37 @@
       <option name="presentableId" value="Default" />
       <updated>1654149515052</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code Push">
+      <created>1654150444691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654150444691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Big Data Project">
+      <created>1654150584022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654150584022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code Push" />
+    <MESSAGE value="Big Data Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Big Data Project" />
   </component>
 </project>
