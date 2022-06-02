@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e8afb4f-0fdb-4d39-8cab-cbdb156134da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Python Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorted_SLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/LongestCommonPrefix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Palindrome/Palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RomanToInteger/RomanToInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum/Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TwoSum/TwoSum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Problems/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Problems/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Problems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="28eNXvoVFARIpT68kVolQC6I7fe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learning\Programming\Exercises\Python Problems\LinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Sorted_SLL">
+    <configuration name="SingleLinkedList (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LinkedList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingleLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SingleLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LinkedList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Learning\Programming\Exercises\Python Problems\MergeTwoSortedLists\SingleLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sorted_SLL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LinkedList" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorted_SLL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sorted_SLL" />
+        <item itemvalue="Python.SingleLinkedList (1)" />
+        <item itemvalue="Python.SingleLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e8afb4f-0fdb-4d39-8cab-cbdb156134da" name="Changes" comment="" />
+      <created>1651573134984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651573134984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
