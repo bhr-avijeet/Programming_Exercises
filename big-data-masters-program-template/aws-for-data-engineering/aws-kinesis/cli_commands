@@ -1,0 +1,3 @@
+aws kinesis put-record --stream-name test-stream --cli-binary-format raw-in-base64-out --data '1,avijeet\n' --partition-key p1
+
+aws kinesis create-stream --stream-name test-stream --shard-count 1
