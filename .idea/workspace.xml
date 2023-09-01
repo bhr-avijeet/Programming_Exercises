@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87c4ff80-cd7a-4dd0-8524-2197af4b637b" name="Changes" comment="Big Data Project">
-      <change beforePath="$PROJECT_DIR$/big-data-masters-program-template" beforeDir="false" />
+    <list default="true" id="a7a57ecd-4c96-4bf9-b1cc-c950b09ce322" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/out/production/HelloWorld/learning/Avijeet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/src/learning/Avijeet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/Java Problems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/out/production/Java Problems/learning/Avijeet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/Python Problems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,60 +50,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectId" id="2A0bajbMYnVV3vjVRgGNpLFDUQ0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Umsve7bEJBrwYqhCZAmNbSm4oK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="87c4ff80-cd7a-4dd0-8524-2197af4b637b" name="Changes" comment="" />
-      <created>1654149515052</created>
+      <changelist id="a7a57ecd-4c96-4bf9-b1cc-c950b09ce322" name="Changes" comment="" />
+      <created>1693556323054</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654149515052</updated>
+      <updated>1693556323054</updated>
     </task>
-    <task id="LOCAL-00001" summary="Code Push">
-      <created>1654150444691</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1654150444691</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Big Data Project">
-      <created>1654150584022</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1654150584022</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code Push" />
-    <MESSAGE value="Big Data Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Big Data Project" />
   </component>
 </project>
