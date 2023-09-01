@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7a57ecd-4c96-4bf9-b1cc-c950b09ce322" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python Problems/HelloWorld/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/HelloWorld/HelloWorld.py" afterDir="false" />
-    </list>
+    <list default="true" id="a7a57ecd-4c96-4bf9-b1cc-c950b09ce322" name="Changes" comment="Changed Hello Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +40,19 @@
       <option name="presentableId" value="Default" />
       <updated>1693556323054</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed Hello Program">
+      <option name="closed" value="true" />
+      <created>1693562417875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693562417875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed Hello Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Hello Program" />
   </component>
 </project>
