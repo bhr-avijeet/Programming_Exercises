@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7a57ecd-4c96-4bf9-b1cc-c950b09ce322" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/out/production/HelloWorld/learning/Avijeet/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/HelloWorld/src/learning/Avijeet/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/Java Problems.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Problems/out/production/Java Problems/learning/Avijeet/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/Python Problems.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Problems/HelloWorld/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Problems/HelloWorld/HelloWorld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +15,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2Umsve7bEJBrwYqhCZAmNbSm4oK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
